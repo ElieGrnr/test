@@ -6,3 +6,5 @@ application 1 : suite des modifications
 blablabla sur master
 
 encore du blabla sur master
+
+modifications sur master -> remise 
